@@ -7,6 +7,8 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -🧑🏿‍💻 Full Stack Developer
 
+-💻 DevOps Engineer
+
 -⚛️ Quantum Computing Scientist
 
 https://www.linkedin.com/in/lucas-madeira-7606a017b/
