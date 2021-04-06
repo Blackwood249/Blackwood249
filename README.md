@@ -5,11 +5,11 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 #####      Security Architecy
  
- -🗄️  Data Scientist 
+-🗄️  Data Scientist 
     
 -🧑🏿‍💻 Full Stack Developer
 
--💻 DevOps Engineer
+-💻 DevOps Engineer 
 
 -⚛️ Quantum Computing Scientist
 
