@@ -4,6 +4,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 -🖥️ Cyber Security Specialist
 
 -🗄️  Data Scientist 
+    #####Security Architect
 
 -🧑🏿‍💻 Full Stack Developer
 
