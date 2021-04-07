@@ -13,7 +13,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -💻 DevOps Engineer 
 
--✈️ CADEngineer
+-✈️📡 CADEngineer
 
 #####      Focused on the aeronautics, aerospace and telecomunications sector (Airplanes, Rockets, Satellites and Antennas)
 
