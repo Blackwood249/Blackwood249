@@ -15,7 +15,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -✈️ CADEngineer
 
-#####      Focused on the aeronautics and aerospace sector (Airplanes, Rockets, Satellite and Antennas)
+#####      Focused on the aeronautics and aerospace sector (Airplanes, Rockets, Satellites and Antennas)
 
 -⚛️ Quantum Computing Scientist
 
