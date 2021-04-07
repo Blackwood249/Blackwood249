@@ -3,7 +3,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -🖥️ Cyber Security Specialist
 
-#####      Security Architecy (pentest focused on data centers, cloud service, financial market and blockchain)
+#####      Security Architecy (pentest focused on data centers, cloud service, criptography, financial market and blockchain)
   
 -🗄️  Data Scientist 
     
@@ -12,6 +12,10 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 -🤖 Machine Learning and IA Developer
 
 -💻 DevOps Engineer 
+
+-✈️ CADEngineer
+
+#####      Focused on the aeronautics and aerospace sector
 
 -⚛️ Quantum Computing Scientist
 
