@@ -19,6 +19,6 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -📶 5G/6G Researcher
 
--⚛️ Quantum Computing Scientist
+-⚛️ Quantum Computing Scientist 
 
 https://www.linkedin.com/in/lucas-madeira-7606a017b/
