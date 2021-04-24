@@ -19,7 +19,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 -📶 5G/6G Researcher
 
--🔏 cryptographer
+-🔏 Cryptographer
 
 -⚛️ Quantum Computing Scientist 
 
