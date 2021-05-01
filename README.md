@@ -9,6 +9,10 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
     
 -🧑🏿‍💻 Full Stack Developer
 
+-🎰 IOT Developer
+
+-🧑🏿‍🏭  4.0 industry researcher
+
 -🤖 Machine Learning and AI Developer
 
 -💻 DevOps Engineer 
