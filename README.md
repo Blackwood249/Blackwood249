@@ -2,8 +2,6 @@
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
     
 
--📶 5G/6G Researcher
-
 <div>
     
    <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
