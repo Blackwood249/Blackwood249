@@ -15,5 +15,5 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
   <div>
     <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/lucas-madeira-7606a017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.lucasmadeira.tec.br" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"></a> 
+   <a href="https://www.lucasmadeira.tec.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
 <div>    
