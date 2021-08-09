@@ -1,8 +1,7 @@
 #####	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
-<div>
-<div>      
+##### MY SKILLS
 
 <div>
   <a href="https://github.com/Blackwood249">
@@ -10,7 +9,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwood249&layout=compact&langs_count=7&theme=prussian"/>
 <div>
     
-##### **MY CONTACTS**
+##### MY CONTACTS 
   
   My professional e-mail, my linked in and my resume site
   
