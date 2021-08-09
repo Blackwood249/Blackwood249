@@ -10,7 +10,9 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwood249&layout=compact&langs_count=7&theme=prussian"/>
 <div>
     
-
+##### **MY CONTACTS**
+  
+  My professional e-mail, my linked in and my resume site
   
   <div>
     <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
