@@ -1,10 +1,10 @@
-#####	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
+###	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
    - Connecting broadcast to information technology
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
 
-##### MY SKILLS
+### MY SKILLS
 You can see the languages, libraries and frameworks I work [here!]()
 <div>
   <a href="https://github.com/Blackwood249">
@@ -12,7 +12,7 @@ You can see the languages, libraries and frameworks I work [here!]()
   <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blackwood249&layout=compact&langs_count=7&theme=prussian"/>
 <div>
     
-##### MY CONTACTS 
+### MY CONTACTS 
   
   My professional e-mail for Brazil, my professional e-mail for Outside Brazil,  my linked in and my resume site!
   
