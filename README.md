@@ -2,7 +2,7 @@
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
 ##### MY SKILLS
-You can see the languages, libraries and frameworks I work [here!](file:///C:/Users/user/Documents/TsFat1044JRUNRJ_SERVICO_17014721_TS_000007_FACADE_20210731223714812.pdf)
+You can see the languages, libraries and frameworks I work [here!]()
 <div>
   <a href="https://github.com/Blackwood249">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blackwood249&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
