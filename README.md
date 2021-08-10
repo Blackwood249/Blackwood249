@@ -1,6 +1,7 @@
 #####	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
+   - Connecting broadcast to information technology
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
 
 ##### MY SKILLS
