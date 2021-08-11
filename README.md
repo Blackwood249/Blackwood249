@@ -17,7 +17,7 @@ You can see the languages, libraries and frameworks I work [here!]()
   My professional e-mail for Brazil, my professional e-mail for Outside Brazil,  my linked in and my resume site!
   
   <div>
-    <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a> 
+    <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a> 
      <a href = "mailto:internationalcontact@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a> 
    <a href="https://www.linkedin.com/in/lucas-madeira-7606a017b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.lucasmadeira.tec.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> 
