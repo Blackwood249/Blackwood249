@@ -15,7 +15,7 @@ You can see the languages, libraries and frameworks I work [here!]()
     
 # MY CONTACTS 
   
-  My professional e-mail for Brazil, my professional e-mail for Outside Brazil,  my linked in and my resume site!
+  My professional e-mail for Brazil, my professional e-mail for Outside Brazil and my linked in!
   
   <div>
     <a href = "mailto:contato@lucasmadeira.tec.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=green" target="_blank"></a> 
