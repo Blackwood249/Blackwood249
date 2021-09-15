@@ -4,7 +4,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
    - Connecting broadcast to information technology
    - Data Analysis for Business Intelligence  and Project Planning
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
-   - -- Working With Open CV and Python for Machine Learning
+   - - Working With Open CV and Python for Machine Learning
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!]()
