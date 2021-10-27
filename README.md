@@ -7,7 +7,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
    - - Working With Open CV and Python for Machine Learning in computer vision 
 
 # MY SKILLS
-You can see the languages, libraries and frameworks I work [here!]()
+You can see the languages, libraries and frameworks I work [here!](file:///C:/Users/user/Documents/CV/GitHub/lucas-cv.pdf)
 <div>
   <a href="https://github.com/Blackwood249">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Blackwood249&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
