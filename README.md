@@ -2,10 +2,12 @@
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
    - Connecting broadcast to information technology
-   - Data Analysis for Business Intelligence  and Project Planning
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
    - - Working with Open CV and Python for Machine Learning in computer vision 
    - - Working with DroneKit and Python for Drone Connection
+   - Data Analyst
+   - Data Engineer 
+   - Machine Learning Engineer
    - Front - End Developer
    - Java Engineer 
 
