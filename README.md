@@ -6,6 +6,8 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
    - - Working with Open CV and Python for Machine Learning in computer vision 
    - - Working with DroneKit and Python for Drone Connection
+   - Front - End Developer
+   - Java Engineer 
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
