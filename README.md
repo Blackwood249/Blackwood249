@@ -6,6 +6,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
    - - Working with Open CV and Python for Machine Learning in computer vision 
    - - Working with DroneKit and Python for Drone Connection
    - Data Analyst
+   - - Python for Data Analysis and Business Inteligence
    - Data Engineer 
    - Machine Learning Engineer
    - Front - End Developer
