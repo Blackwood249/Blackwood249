@@ -5,7 +5,6 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
    - Connecting broadcast to information technology
    - Drone Developer at [@uffoequipe](https://uffoequipe.github.io/website/uffo/)
    - Machine Learning Engineer 
-   - Front - End Developer 
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
