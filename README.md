@@ -1,6 +1,7 @@
 #	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
 Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
 
+   - Artificial Inteligence 
    - Machine Learning Engineer 
    - Data Analysis 
 
