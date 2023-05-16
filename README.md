@@ -5,7 +5,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Here+you+can+see+my+projects;I+am+looking+to+work+with:;Machine+Learning;Data+Science;Mobile+Dev;and;satellite+driven+programming;+!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=40&center=true&vCenter=true&width=1000&lines=Here+you+can+see+my+projects;I+am+looking+to+work+with:;Artificial+Intelligence;Machine+Learning;Deep+Learning;Data+Science;Mobile+Dev;Embedded+Systems;IoT;and;satellite+driven+programming;+!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blackwood249&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=#000000&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
