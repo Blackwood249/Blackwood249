@@ -5,7 +5,7 @@ Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=50&center=true&vCenter=true&width=1000&lines=1.0+Artificial+Intelligence;1.1+Machine+Learning;1.1.1+Supervised+Learning;1.1.2+Unsupervised+Learning;1.1.3+Reinforcement+Learning;1.2+Deep+Learning+;1.3+Natural+Language+Processing;2.0+Data;2.1+Data+Analysis;2.2+Data+Visualization;3.0+Web+Development;3.1+Front+End+Development;4.0+Mobile+Development;4.1+Android;4.2+IOS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=50&center=true&vCenter=true&width=1000&lines=1.0+Artificial+Intelligence;1.1+Machine+Learning;1.1.1+Supervised+Learning;1.1.2+Unsupervised+Learning;1.1.3+Reinforcement+Learning;1.2+Deep+Learning+;1.3+Natural+Language+Processing;2.0+Data;2.1+Data+Analysis;2.2+Data+Visualization;3.0+Web+Development;3.1+Front+End+Development;4.0+Mobile+Development;4.1+Android;4.2+IOS;5.0+Computer+Network;5.1+Network Architecture and Infrastructure;5.2+Cybersecurity)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blackwood249&show_icons=true&count_private=true&hide_border=true&title_color=#000080&icon_color=#000000&text_color=#000080_color=#000080" alt="Caroline Barbosa github stats" /> 
