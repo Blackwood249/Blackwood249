@@ -1,8 +1,4 @@
-#	WELCOME I AM LUCAS MADEIRA AKA BLACKWOOD 
-Hi my name is Lucas I am a Telecomunications Engineering student 📡 at UFF  in Niteroi RJ 🇧🇷
-
-   - 10 months Strategy and Technical intern at TV Globo
-   - Connecting Data Science, Artificial Intelligence and Machine Learning to the Financial Market
+# "Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who left the engineering career to pursue a career in the financial market. I am a Private Banking Manager at Banco do Brasil and a specialist in investments. I connect data science, artificial intelligence, and investments."
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
