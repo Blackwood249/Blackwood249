@@ -1,4 +1,4 @@
-# "Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who left the engineering career to pursue a career in the financial market. I am a Private Banking Manager at Banco do Brasil and a specialist in investments. I connect data science, artificial intelligence, and investments."
+"Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who left the engineering career to pursue a career in the financial market. I am a Private Banking Manager at Banco do Brasil and a specialist in investments. I connect data science, artificial intelligence, and investments."
 
 # MY SKILLS
 You can see the languages, libraries and frameworks I work [here!](https://drive.google.com/file/d/1294kAyGmqoDI92cHlB2mtVPu-bTuGXZk/view?usp=sharing)
