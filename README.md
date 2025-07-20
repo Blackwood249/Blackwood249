@@ -2,6 +2,46 @@
 Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who left the engineering career to pursue a career in the financial market. I am a specialist in investments. I connect data science, artificial intelligence, and investments.
 
 # MY SKILLS
+💼 What You'll Find Here
+This profile combines robust technical skills focused on finance, data analysis, and automation. I specialize in tools that bridge programming and investment analysis, enabling decision-making through data.
+
+I work with Python, using libraries such as:
+
+Pandas for data manipulation and time series analysis,
+
+NumPy for numerical operations,
+
+Matplotlib and Seaborn for clear and professional data visualizations,
+
+Scikit-learn for machine learning models applied to financial forecasting,
+
+yfinance for retrieving stock market data,
+
+Statsmodels for econometric analysis,
+
+and Jupyter Notebook for presenting results in an interactive format.
+
+With R, I apply:
+
+ggplot2 and tidyverse for data exploration,
+
+quantmod and TTR for technical analysis and financial modeling,
+
+and Shiny to build interactive dashboards.
+
+I use SQL to:
+
+query and structure large financial databases,
+
+automate reporting pipelines,
+
+and extract key performance indicators efficiently.
+
+I also work extensively with Power BI and Microsoft Excel, combining DAX functions, pivot tables, and dynamic dashboards to generate actionable insights. My knowledge of VBA allows me to automate processes and build tools tailored to financial operations.
+
+These technologies help transform raw data into strategic insights, supporting smart decision-making in dynamic financial environments.
+
+
 
 
 <div align="center">  
