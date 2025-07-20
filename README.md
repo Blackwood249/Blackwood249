@@ -3,43 +3,21 @@ Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who 
 
 # MY SKILLS
 💼 What You'll Find Here
-This profile combines robust technical skills focused on finance, data analysis, and automation. I specialize in tools that bridge programming and investment analysis, enabling decision-making through data.
+I focus on building solutions that connect programming, finance, and automation. My technical toolkit is designed to support financial modeling, data analysis, and business intelligence through code and visualization.
 
-I work with Python, using libraries such as:
+I work primarily with Python, a powerful language for financial applications. I use Pandas for time series and structured data manipulation, NumPy for efficient numerical computations, and Matplotlib and Seaborn for creating impactful financial visualizations. For predictive modeling, I apply Scikit-learn, while yfinance helps retrieve and analyze real-time market data. I also use Statsmodels for econometric and statistical analysis, and present results in Jupyter Notebook.
 
-Pandas for data manipulation and time series analysis,
+With R, I explore and model data using packages like ggplot2 for elegant charts, tidyverse for structured data workflows, quantmod and TTR for building and testing trading strategies, and Shiny to create interactive financial dashboards.
 
-NumPy for numerical operations,
+In SQL, I manage and query relational databases for extracting financial insights, automating report generation, and structuring historical data for investment decisions.
 
-Matplotlib and Seaborn for clear and professional data visualizations,
+I also have strong expertise in Power BI and Microsoft Excel. I use Power BI to build automated dashboards and visual reports using DAX, while in Excel, I work with advanced formulas, pivot tables, and macros. With VBA, I create custom solutions that streamline financial tasks and enhance spreadsheet functionality.
 
-Scikit-learn for machine learning models applied to financial forecasting,
+My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
 
-yfinance for retrieving stock market data,
 
-Statsmodels for econometric analysis,
-
-and Jupyter Notebook for presenting results in an interactive format.
-
-With R, I apply:
-
-ggplot2 and tidyverse for data exploration,
-
-quantmod and TTR for technical analysis and financial modeling,
-
-and Shiny to build interactive dashboards.
-
-I use SQL to:
-
-query and structure large financial databases,
-
-automate reporting pipelines,
-
-and extract key performance indicators efficiently.
-
-I also work extensively with Power BI and Microsoft Excel, combining DAX functions, pivot tables, and dynamic dashboards to generate actionable insights. My knowledge of VBA allows me to automate processes and build tools tailored to financial operations.
-
-These technologies help transform raw data into strategic insights, supporting smart decision-making in dynamic financial environments.
+           
+                    
 
 
 
