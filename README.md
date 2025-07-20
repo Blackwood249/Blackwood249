@@ -1,6 +1,13 @@
-# WHO AM I
-Hello, I am Lucas Madeira, a telecommunications engineer graduated from UFF who left the engineering career to pursue a career in the financial market. I am a specialist in investments. I connect data science, artificial intelligence, and investments.
+# WHO AM I 
+            
+          
+Hello, I’m Lucas Madeira — a Telecommunications Engineer graduated from UFF who made a bold transition from engineering to the financial market, with a clear focus on Private Banking.
 
+After graduating, I decided to leave the telecommunications industry to pursue my true passion: helping high-net-worth individuals grow and protect their wealth. To support this career shift, I completed an MBA in Data Science, Business Intelligence, and Artificial Intelligence, and I am currently pursuing a Master’s degree in Administration.
+
+My expertise lies at the intersection of finance and technology. I leverage tools like Python (Pandas, NumPy, Matplotlib, Scikit-learn), R, SQL, Excel, VBA, and Power BI to develop data-driven solutions for portfolio analysis, risk assessment, asset allocation, and client reporting — all essential for delivering a personalized and analytical approach in the Private Banking sector.
+
+I believe in combining technical excellence with strategic thinking to deliver real value to both clients and financial institutions.
 # MY SKILLS
 💼 What You'll Find Here
 I focus on building solutions that connect programming, finance, and automation. My technical toolkit is designed to support financial modeling, data analysis, and business intelligence through code and visualization.
@@ -15,9 +22,9 @@ I also have strong expertise in Power BI and Microsoft Excel. I use Power BI to 
 
 My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
 
-
-           
-                    
+##
+                     
+##                    
 
 
 
