@@ -22,9 +22,7 @@ I also have strong expertise in Power BI and Microsoft Excel. I use Power BI to 
 
 My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
 
-##
-                     
-##                    
+                  
 
 
 
