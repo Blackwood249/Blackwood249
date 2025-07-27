@@ -22,7 +22,17 @@ I also have strong expertise in Power BI and Microsoft Excel. I use Power BI to 
 
 My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
 
-                  
+# 💡 Additional Technical Knowledge
+
+  Flutter and Kotlin have been key in my journey through mobile development, allowing me to build cross-platform and native Android applications with responsive UI and seamless performance. With Objective-C, I explored legacy iOS systems and contributed to maintaining and updating codebases for Apple devices. These tools enabled me to develop financial calculators, mobile dashboards, and data visualization apps tailored for client interaction in the banking sector.
+
+In the web development landscape, I’ve worked extensively with Python (Django) to create robust backend systems for data processing, financial APIs, and client onboarding platforms. Combined with TypeScript, AngularJS, and JavaScript, I’ve developed interactive front-end interfaces and SPA dashboards that support real-time financial data tracking. I use HTML5 and PHP 7 to build responsive, accessible, and secure client portals, often integrating with SQL and NoSQL databases to manage high-volume financial records.
+
+Beyond common stacks, I also leverage Scala and Java for building high-performance backend systems and big data processing pipelines—especially relevant in scenarios involving portfolio analysis and financial modeling. My background in C and C++ helps when optimizing low-level processes or integrating with legacy systems in financial institutions. Additionally, I’ve explored Ruby on Rails for rapid prototyping and development of fintech MVPs with built-in authentication and database handling.
+
+This additional skill set complements my core work in Private Banking and Data Science, enabling me to bridge the gap between technology and finance while delivering solutions that are scalable, intelligent, and user-centric.
+
+                
 
 
 
