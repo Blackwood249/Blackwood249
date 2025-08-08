@@ -18,7 +18,7 @@ With **R**, I explore and model data using packages like **ggplot2** for elegant
 
 In **SQL**, I manage and query relational databases for extracting financial insights, automating report generation, and structuring historical data for investment decisions.
 
-I also have strong expertise in **Power BI and Microsoft Excel**. I use Power BI to build automated dashboards and visual reports using DAX, while in Excel, I work with advanced formulas, pivot tables, and macros. With VBA, I create custom solutions that streamline financial tasks and enhance spreadsheet functionality.
+I also have strong expertise in **Power BI and Microsoft Excel**. I use Power BI to build automated dashboards and visual reports using DAX, while in Excel, I work with advanced formulas, pivot tables, and macros. **With VBA**, I create custom solutions that streamline financial tasks and enhance spreadsheet functionality.
 
 My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
 
