@@ -1,36 +1,40 @@
-# WHO AM I 
-            
-          
-Hello, I’m Lucas Madeira — a **Telecommunications Engineer graduated from UFF** who made a bold transition from engineering to the financial market, with a clear focus on Private Banking.
+# WHO AM I
 
-After graduating, I decided to leave the telecommunications industry to pursue my true passion: helping high-net-worth individuals grow and protect their wealth. To support this career shift, I completed an **MBA in Data Science, Business Intelligence, and Artificial Intelligence, and I am currently pursuing a Master’s degree in Administration.**
+Hello, I’m Lucas Madeira — a Telecommunications Engineer graduated from UFF with strong experience in RF, networking, and telecom systems. After exploring other opportunities, I decided to focus on leveraging my technical expertise to solve complex challenges in the telecommunications industry.
 
-My expertise lies at the intersection of finance and technology. **I leverage tools like Python (Pandas, NumPy, Matplotlib, Scikit-learn), R, SQL, Excel, VBA, and Power BI to develop data-driven solutions for portfolio analysis, risk assessment, asset allocation, and client reporting — all essential for delivering a personalized and analytical approach in the Private Banking sector.**
+I have hands-on experience in network monitoring, performance analysis, RF planning, and automation of operational tasks. I combine engineering knowledge with programming skills to improve network efficiency, troubleshoot issues, and deliver data-driven insights for telecom operations.
 
-I believe in combining technical excellence with strategic thinking to deliver real value to both clients and financial institutions.
+---
+
 # MY SKILLS
-💼 What You'll Find Here
-**I focus on building solutions that connect programming, finance, and automation. My technical toolkit is designed to support financial modeling, data analysis, and business intelligence through code and visualization.**
 
-I work primarily with **Python**, a powerful language for financial applications. I use **Pandas** for time series and structured data manipulation, **NumPy** for efficient numerical computations, and **Matplotlib** and Seaborn for creating impactful financial visualizations. For predictive modeling, I apply **Scikit-learn**, while yfinance helps retrieve and analyze real-time market data. I also use **Statsmodels** for econometric and statistical analysis, and present results in **Jupyter Notebook.**
+💼 **Technical Focus for Telecommunications**
 
-With **R**, I explore and model data using packages like **ggplot2** for elegant charts, **tidyverse** for structured data workflows, **quantmod and TTR** for building and testing trading strategies, and **Shiny** to create interactive financial dashboards.
+I specialize in **building solutions that connect programming, automation, and network operations**. My toolkit supports monitoring, analysis, and management of telecom systems, from core networks to VSAT, RF links, and IP infrastructure.
 
-In **SQL**, I manage and query relational databases for extracting financial insights, automating report generation, and structuring historical data for investment decisions.
+- **Python** 🐍 – Automating network monitoring, analyzing logs, generating reports, and performing predictive maintenance. Libraries: Pandas, NumPy, Matplotlib, Scikit-learn, PySNMP.
+- **R** – Statistical analysis of network performance and signal quality metrics, trend modeling, and anomaly detection.
+- **SQL / PostgreSQL / MySQL** – Querying network databases, analyzing historical performance data, and automating reporting pipelines.
+- **Bash / Shell Script** – Automating network tasks, backups, and system monitoring on Linux servers.
+- **C / C++** – Developing low-level network tools, RF simulation, and hardware integration.
+- **Java / Scala** – Building scalable backend systems for network management and big data processing.
+- **Power BI & Excel / VBA** – Creating dashboards to monitor KPIs, automate reports, and visualize network performance.
 
-I also have strong expertise in **Power BI and Microsoft Excel**. I use Power BI to build automated dashboards and visual reports using DAX, while in Excel, I work with advanced formulas, pivot tables, and macros. **With VBA**, I create custom solutions that streamline financial tasks and enhance spreadsheet functionality.
+💡 **Additional Technical Knowledge**
 
-My goal is to turn raw financial and operational data into strategic insights, supporting professionals and organizations in making smarter and faster decisions.
+- **Mobile & Embedded Systems**: Flutter, Kotlin, Objective-C — for creating mobile network monitoring apps, dashboards, and field tools.  
+- **Web Development**: Python (Django), JavaScript, TypeScript, AngularJS, HTML5, PHP — for developing network management portals, real-time dashboards, and telecom automation tools.  
+- **Other Frameworks**: Ruby on Rails — for rapid prototyping of network monitoring MVPs or telecom analytics platforms.  
 
-# 💡 Additional Technical Knowledge
+My goal is to **turn raw network and operational data into actionable insights**, automating tasks and supporting telecom engineers, operators, and managers in making faster, smarter decisions.
 
-  **Flutter and Kotlin** have been key in my journey through mobile development, allowing me to build cross-platform and native Android applications with responsive UI and seamless performance. With **Objective-C**, I explored legacy iOS systems and contributed to maintaining and updating codebases for Apple devices. These tools enabled me to develop financial calculators, mobile dashboards, and data visualization apps tailored for client interaction in the banking sector.
+---
 
-In the web development landscape, I’ve worked extensively with **Python (Django)** to create robust backend systems for data processing, financial APIs, and client onboarding platforms. **Combined with TypeScript, AngularJS, and JavaScript**, I’ve developed interactive front-end interfaces and SPA dashboards that support real-time financial data tracking. I use **HTML5 and PHP 7** to build responsive, accessible, and secure client portals, often integrating with **SQL and NoSQL** databases to manage high-volume financial records.
+# CONTACT
 
-Beyond common stacks, I also leverage **Scala and Java** for building high-performance backend systems and big data processing pipelines—especially relevant in scenarios involving portfolio analysis and financial modeling. My background in **C and C++** helps when optimizing low-level processes or integrating with legacy systems in financial institutions. Additionally, I’ve explored **Ruby on Rails** for rapid prototyping and development of fintech MVPs with built-in authentication and database handling.
+- LinkedIn: [your-linkedin]
+- GitHub: [your-github]
 
-This additional skill set complements my core work in Private Banking and Data Science, enabling me to bridge the gap between technology and finance while delivering solutions that are scalable, intelligent, and user-centric.
 
                 
 
