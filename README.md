@@ -30,16 +30,6 @@ My goal is to **turn raw network and operational data into actionable insights**
 
 ---
 
-# CONTACT
-
-- LinkedIn: [your-linkedin]
-- GitHub: [your-github]
-
-
-                
-
-
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Blackwood249&show_icons=true&count_private=true&hide_border=true&title_color=#000080&icon_color=#000000&text_color=#000080_color=#000080" alt="Caroline Barbosa github stats" /> 
